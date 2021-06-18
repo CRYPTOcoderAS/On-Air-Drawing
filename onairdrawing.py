@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import argparse
-#using GREEN color
+#using YELLOW color
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--image", type=str, default="",
 	help="path to input image")
